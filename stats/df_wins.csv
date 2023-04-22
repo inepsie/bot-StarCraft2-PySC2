@@ -1,0 +1,8 @@
+,Difficulty,TerWins,TerLosses,TerStalemates,ProWins,ProLosses,ProStalemates,ZerWins,ZerLosses,ZerStalemates
+0,very_easy,0,0,0,0,0,0,0,0,0
+1,easy,0,0,0,0,0,0,0,0,0
+2,medium,0,0,0,0,0,0,0,0,0
+3,medium_hard,0,0,0,0,0,0,0,0,0
+4,hard,10,6,4,11,5,4,11,4,0
+5,harder,0,0,0,0,0,0,0,0,0
+6,very_hard,0,0,0,0,0,0,0,0,0
